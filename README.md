@@ -1,3 +1,5 @@
+# CoLLIE
+
 These are instructions on how to run the experiments in the article "CoLLIE: Continual Learning of Language Grounding from Language-Image Embeddings" in the Journal of Artificial Intelligence Research (JAIR) 2022. 
 
 The code is written in Python and should be possible to run on both cpu and gpu.
